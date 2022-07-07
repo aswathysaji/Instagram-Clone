@@ -1,0 +1,13 @@
+.header{
+  position: fixed;
+  top: 0;
+  padding: 8px;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+}
+
+.header__logo{
+  width: 10%;
+  object-fit: contain;
+  padding-left: 10px;
+}
